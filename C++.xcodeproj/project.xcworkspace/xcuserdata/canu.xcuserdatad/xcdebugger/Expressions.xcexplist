@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Member:union_01.c">
+      </ContextState>
+      <ContextState
+         contextName = "mostOnes(int (*) [100], int):02.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(*(array+1)+1)">
+            </PersistentString>
+            <PersistentString
+               value = "(int (*)[100])array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "product:temp.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "product(a + a, b -1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:01.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "num">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:03.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;Array[swapIndexA]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:07.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Peek:Stack_01.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "stack[top]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Duplicate:Stack_01.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "stack[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DownRotate:Stack_01.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "temp[N-2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReverseArray(int, int, int*):01.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "reserve">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Push:Stack_01.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*top + 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SubSet:union_01.c">
+      </ContextState>
+      <ContextState
+         contextName = "main:01_new.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "array[end]">
+            </PersistentString>
+            <PersistentString
+               value = "array[start]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:Stack_01.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
